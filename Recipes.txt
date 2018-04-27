@@ -1,6 +1,8 @@
 
+Welcome
 
-Hi New Recipes
+New Recipes
 
 Pizza
 Pasta
+Fries
