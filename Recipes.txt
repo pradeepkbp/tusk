@@ -7,6 +7,10 @@ Pizza
 Pasta
 Fries
 
+Beans
+Kheer
+
+Done my changes
 Thank you :)
 
 Final copy
