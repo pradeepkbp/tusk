@@ -7,5 +7,8 @@ Pizza
 Pasta
 Fries
 
+Beans
+Kheer
+
 Thank you :)
 
